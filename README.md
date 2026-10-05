@@ -41,7 +41,7 @@ Karen is a bank teller, during office hours the entire mobile/online portal syst
 
 </p>
 <p>
-Jon Doe has Read Only access, while working the ticket he emails Karen to doublecheck if the system is back up? Karen Replies no. John Doe updates Priority Level, Help Topic and Updates SLA Plan level to Business Critical. Jon Doe has Read Only access, so he double checks the ticket and documents He will be escalating the ticket to SysAdmin dept. post triaging.
+Jon Doe has Read Only access, so while working the ticket he emails Karen to doublecheck if the system is back up? Karen Replies no. John Doe updates Priority Level, Help Topic and Updates SLA  Plan level to Business Critical. Jon Doe has Read Only access, so he double checks the ticket and documents He will be escalating the ticket to SysAdmin dept. post triaging.
 </p>
 <br />
 
