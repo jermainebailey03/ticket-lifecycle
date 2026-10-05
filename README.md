@@ -50,6 +50,6 @@ Jon Doe has Read Only access, so while working the ticket he emails Karen to dou
 
 </p>
 <p>
-Jane Doe is the SysAdmin. Jane Doe opens the ticket that was sent by Jon Doe, and begins to work the ticket. Jane Doe notices that the system had been accidentally restarted during business hours due to a configuration issue on the backend server. Jane do checks the settings and attempted to restart the system. Server successfully restarts, online banking system is back up. Jane Do verifies with Karen at the bank branch, ticket closed.
+Jane Doe is the SysAdmin. Jane Doe opens the ticket that was sent by Jon Doe, and begins to work the ticket. Jane Doe notices that the system had been accidentally restarted during business hours due to a configuration issue on the backend server. Jane Do checks the settings and attempted to restart the system. Server successfully restarts, online banking system is back up. Jane Do verifies with Karen at the bank branch, ticket is closed.
 </p>
 <br />
