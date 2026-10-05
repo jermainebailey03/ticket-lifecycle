@@ -41,7 +41,7 @@ Karen is a bank teller, during office hours the entire mobile/online portal syst
 
 </p>
 <p>
-Jon Doe has Read Only access, while working the ticket he emails Karen to doublecheck if the system is back up. Karen Replies no. John Doe updates Priority Level, Help Topic and Updates SLA Plan level to Business Critical. Jon Doe has Read Only access, so he double checks the ticket and documents He will be escalating the ticket to SysAdmin dept. post triaging.
+Jon Doe has Read Only access, while working the ticket he emails Karen to doublecheck if the system is back up? Karen Replies no. John Doe updates Priority Level, Help Topic and Updates SLA Plan level to Business Critical. Jon Doe has Read Only access, so he double checks the ticket and documents He will be escalating the ticket to SysAdmin dept. post triaging.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ Jon Doe has Read Only access, while working the ticket he emails Karen to double
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Jane Doe is the SysAdmin. Jane Doe opens the ticket that was sent by Jon Doe, and begins to work the ticket. Jane Doe notices that the system had been accidentally restarted during business hours due to a configuration issue on the backend server. Jane do checks the settings and attempted to restart the system. Server successfully restarts, online banking system is back up. Jane Do verifies with Karen at the bank branch, ticket closed.
 </p>
 <br />
