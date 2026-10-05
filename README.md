@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Karen is a bank teller, during office hours the entire mobile/online portal system seems to be down. Karen and other bank tellers are unable to login. Karen sends email to the ticket team. John Doe sends a confirmation email stating He has received the email, he will began to work the ticket and if he has any other questions, he will be in contact.  
+Karen is a bank teller, during office hours the entire mobile/online portal system seems to be down. Karen and other bank tellers are unable to login. Karen sends an email to the ticket team. John Doe sends a confirmation email stating He has received the email, he will began to work the ticket and if he has any other questions, he will be in contact.  
 </p>
 <br />
 
