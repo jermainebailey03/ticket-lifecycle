@@ -28,7 +28,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img width="886" height="527" alt="Screenshot_9-8-2026_203024_coursecareers com" src="https://github.com/user-attachments/assets/9a9c9bdf-28c0-4907-8bc2-2eccf1a6d2a7" />
+<img width="770" height="891" alt="Screenshot_9-8-2026_204858_coursecareers com" src="https://github.com/user-attachments/assets/cb51f538-8c91-45ee-991e-aa3c6562dfaf" />
+
 
 </p>
 <p>
@@ -37,7 +38,8 @@ Karen is a bank teller, during office hours the entire mobile/online portal syst
 <br />
 
 <p>
-<img width="880" height="788" alt="Screenshot_9-8-2026_203844_coursecareers com" src="https://github.com/user-attachments/assets/688c8b0e-3b95-4b1e-8796-7fe46ac3ed38" />
+<img width="873" height="631" alt="Screenshot_9-8-2026_20584_coursecareers com" src="https://github.com/user-attachments/assets/93a26748-aa47-41e9-857f-7464356b3239" />
+
 
 </p>
 <p>
@@ -46,7 +48,7 @@ Jon Doe has Read Only access, so while working the ticket he emails Karen to dou
 <br />
 
 <p>
-<img width="870" height="367" alt="Screenshot_9-8-2026_204515_coursecareers com" src="https://github.com/user-attachments/assets/e0e53e42-6c16-49ba-aa1b-943db5266ca6" />
+<img width="875" height="731" alt="Screenshot_9-8-2026_21041_coursecareers com" src="https://github.com/user-attachments/assets/71e6852b-904f-4b42-8a99-4d7a57cb3958" />
 
 </p>
 <p>
